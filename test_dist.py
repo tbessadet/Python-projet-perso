@@ -1,1 +1,0 @@
-print("Essaie connexion distante")
